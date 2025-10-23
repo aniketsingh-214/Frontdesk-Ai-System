@@ -244,5 +244,5 @@ app.add_middleware(
 
 **Aniket Singh**
 4th Year B.Tech Student | MERN & Python Developer
-📧 [[aniketsingh@example.com](mailto:aniketsingh@example.com)]
+📧 [[aniketsingh@example.com](mailto:aniketsingh7141340@gmail.com)]
 
